@@ -1,2 +1,2 @@
 # demo-repo
-Demo for GitHub into video.
+We will learn a little bit of Git!
